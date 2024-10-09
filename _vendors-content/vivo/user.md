@@ -1,4 +1,4 @@
----
+-vivo y1906--
 manufacturer: 
     - vivo
 
